@@ -16,7 +16,7 @@
   <li><b>turtle.shape() :</b> Used to write guessed state names on the map</li>
 </ul>
 <h4>pandas – Data Handling</h4>
-<ul>Feature	Usage:
+<ul><b>Feature	Usage:</b>
   <li><b>read_csv() :</b>	Loads state names and their coordinates from 30_states.csv</li>
   <li><b>data[data.state == answer_state] :</b> 	Filters the row for the guessed state</li>
   <li><b>to_list() :</b>	Converts DataFrame column to a list</li>
